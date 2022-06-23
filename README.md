@@ -9,7 +9,6 @@ za jednu osobu i njeno mišljenje i lične hirove već community glasa o svemu,
 dželati kažnjavaju i developeri koji su opet igrači uvode sve sa tehničke strane
 što većina zajednice izglasa
 
-
 ![DAO](https://user-images.githubusercontent.com/33425430/175312829-df734b54-c175-459a-82d6-1a4544b16d62.jpg)
 
 
@@ -25,3 +24,9 @@ Poenta je da svi ovde budu objektivni, da bez obzira da li imaju nešto protiv n
 
 
 Bitno je i da svi imaju svoje mišljenje bez da im neko nameće na bilo koji način
+
+![Blokovi](https://user-images.githubusercontent.com/33425430/175313648-a7652297-f5ee-4bbb-bbab-fd1e2a050af1.jpg)
+
+Bez toksičnih admina i bez reseta mape, global reseta i gašenja sistema servera na svaka 3 meseca!
+
+Hog.
