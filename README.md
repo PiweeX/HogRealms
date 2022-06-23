@@ -25,7 +25,7 @@ Poenta je da svi ovde budu objektivni, da bez obzira da li imaju nešto protiv n
 
 Bitno je i da svi imaju svoje mišljenje bez da im neko nameće na bilo koji način
 
-![DAO Banner](https://user-images.githubusercontent.com/33425430/175315200-3ade5aed-0d0d-4508-9b6e-4f96f4d2d9c4.png)
+![Blokovi](https://user-images.githubusercontent.com/33425430/175315415-d0efd4eb-d5de-4329-a5a2-7e06db7ddcf7.png)
 
 Bez toksičnih admina i bez reseta mape, global reseta i gašenja sistema servera na svaka 3 meseca!
 
