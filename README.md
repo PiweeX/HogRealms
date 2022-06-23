@@ -1,4 +1,4 @@
-# HogoStudios
+# HogoStudios DAO ¦ Decentralized autonomous organization
 prvi server otvorenog koda na Balkanu!
 
 
