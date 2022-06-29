@@ -25,6 +25,30 @@ Poenta je da svi ovde budu objektivni, da bez obzira da li imaju nešto protiv n
 
 Bitno je i da svi imaju svoje mišljenje bez da im neko nameće na bilo koji način
 
+---------------------------------------------------------------------------
+
+Igrač - predloži ban za nekoga uz argumente na Githubu
+
+DAO - daju svoje konstruktivno mišljenje bez glasova vec sa tekstualnom porukom, prebroji se
+
+Dželat - kao izvrsitelj, kazni
+
+(ovo se ne odnosi na sve kazne dželata već na samo kazne koje su otvorene kao issue i kao poseban)
+
+
+Situacija 2 - za uvodjenje promena
+
+Igrač - predlozi
+
+DAO - daju svoje konstruktivno mišljenje bez glasova nego tekstom, prebroji se
+
+Developer - kao stručna osoba kaže da li je to moguće i piše proces dok implementira to na Githubu
+
+
+na ovaj nacin igrači vode zajednicu, ne može biti 3 do 5 admina kao na drugim serverima koji vode sve i od kojih zavisi sve a ujedno abjuzaju i kažnjavaju loše, ukoliko jedan dželat neko vreme ne valja, zajednica izglasa da se promeni, po tom formatu idući dželat bude osoba koja pazi koje postupke čini i stoga radi samo za narod koji ga je izabrao
+
+Ovo je sistem koji je Hog server prvi uveo po pojavi WEB 3.0 kao revoluciju za game servere u kojima vlada korupcija među adminima i ujedno velika nepravda
+
 ![Blokovi](https://user-images.githubusercontent.com/33425430/175315415-d0efd4eb-d5de-4329-a5a2-7e06db7ddcf7.png)
 
 Bez toksičnih admina i bez reseta mape, global reseta i gašenja sistema servera na svaka 3 meseca!
