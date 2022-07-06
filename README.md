@@ -53,7 +53,7 @@ Ostali Igrači - glasaju, nadovezuju se i komentarišu te se njihova reč itekak
 
 DAO - daju svoje konstruktivno mišljenje bez glasova vec sa tekstualnom porukom, prebroji se
 
-Dželat - kao izvrsitelj, kazni
+Dželat - kao izvrsitelj, kazni u skladu sa zakonom koji su igrači izgradili
 
 (ovo se ne odnosi na sve kazne dželata već na samo kazne koje su otvorene kao issue i kao poseban)
 
