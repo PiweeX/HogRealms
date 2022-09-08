@@ -1,0 +1,32 @@
+#TimedItem configuration file
+
+# TimeFormat of "/timeditem TimeFormat" command
+# Please use all of the following list's shortcuts 
+# (separate the first three from the last three with a space character, DO NOT use space character anywhere else):
+# - yyyy = year
+# - MM = month
+# - dd = day
+# - HH = hours
+# - mm = minutes
+# - ss = seconds
+# e.g TimeFormat: "dd:MM:yyyy HH:mm:ss"
+#     then the command is /timeditem dd:MM:yyyy HH:mm:ss
+#     like /timeditem 01:01:2023 00:00:00
+TimeFormat: "dd:MM:yyyy HH:mm:ss"
+
+# Message shown when player uses timeditem command and does not hold any items
+HoldItemMessage: "&cPlease hold an item to convert it to TimedItem!"
+
+# %format% placeholder is taken from above TimeFormat
+WrongSyntaxMessage: "&cPlease use: /timeditem %format%"
+
+# How will the expiration date's prefix be displayed in item's lore
+# The date will be displayed after the below prefix
+DateLorePrefix: "&cExpires: "
+
+# Message sent to player when an item expires
+ExpirationMessage: "&eAn item from your inventory has expired!"
+
+# Every how many minutes should the server check if an item is expired
+# If expiration dates on most items are large time periods consider setting a big number for CheckTime to avoid unnecessary lag
+CheckTime: 1
