@@ -1,0 +1,27 @@
+# EmailVerification Configuration File
+
+# Message shown when a player typed verify command wrong
+WrongVerifySyntax: "&cPlease use /verify <email>"
+
+# Message shown when a player typed verify command while he/she is already verified 
+AlreadyVerified: "&cYou've already added your email address to newsletter!"
+
+# Message shown when a player joins the servers and is not yet verified
+VerificationReminder: "&eSign up for newsletter and get a starter reward using: /verify <email>"
+
+# When a player successfully verifies the email
+# You can find a list of all sounds here: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Sound.html
+VerificationSuccess: 
+  Personal: "&aYou have successfully added your email address!"
+  Global: "%player%&a signed up for newsletter and received rewards!&8 (&7&n/verify email&8)"
+  Sound: ENTITY_PLAYER_LEVELUP 
+  Commands:
+  - "give %player% diamond 1"
+  
+# Valid Email Endings
+ValidEndings:
+- "@gmail.com"
+- "@yahoo.com"
+
+# Message shown to player when they type an email address that does not end with one of the above items of the list
+InvalidEmail: "&cInvalid email address!"
