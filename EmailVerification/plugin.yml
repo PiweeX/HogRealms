@@ -1,0 +1,12 @@
+name: EmailVerification
+main: me.amc.email.MainCore
+version: 1.0.1
+api-version: 1.13
+authors: [ Arionas_MC ]
+commands:
+  verify:
+    description: Default command
+    aliases: [verification]
+  verify <email>:
+    description: Verifies player's email
+    
