@@ -1,0 +1,12 @@
+name: Psihotest
+main: me.amc.psihotest.MainCore
+version: 1.1.5
+api-version: 1.17
+authors: [ Arionas_MC ]
+depend: [ ProtocolLib ]
+softdepend: [ PlaceholderAPI, DiscordSRV ]
+commands:
+  psihotest:
+    description: Credits command
+  psihotest reload:
+    description: Reloads plugin's config
