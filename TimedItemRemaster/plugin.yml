@@ -1,0 +1,8 @@
+main: me.amc.timeditem.MainCore
+version: 1.0.0
+name: TimedItem
+api-version: 1.18
+authors: [Arionas_MC]
+commands:
+  timeditem:
+    description: Main Command
