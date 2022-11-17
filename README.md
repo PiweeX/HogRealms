@@ -57,7 +57,7 @@ Dželat - kao izvrsitelj, kazni u skladu sa zakonom koji su igrači izgradili
 
 (ovo se ne odnosi na sve kazne dželata već na samo kazne koje su otvorene kao issue i kao poseban)
 
-Ukoliko igrač misli da je nepravedno banovan, može otvoriti tiket na UN serveru gde igrači sprovode zakon i gde niko nije banovan, u tiket će napisati da želi da čuje zašto je banovan pošto misli da je nepravedno kažnjen i ukoliko ne dobije odgovor od osobe koja ga je kaznila ili od neke druge osobe dobiće unban i novčanu nagradu od 50k na serveru, uz to i 5EUR na web shopu servera http://shop.hogrealms.com/
+Ukoliko igrač misli da je nepravedno banovan, može otvoriti tiket na UN serveru gde igrači sprovode zakon i gde niko nije banovan, u tiket će napisati da želi da čuje zašto je banovan pošto misli da je nepravedno kažnjen i ukoliko ne dobije odgovor od osobe koja ga je kaznila ili od neke druge osobe dobiće unban i novčanu nagradu od 50k na serveru
 
 na ovaj nacin igrači vode zajednicu, ne može biti 3 do 5 admina kao na drugim serverima koji vode sve i od kojih zavisi sve a ujedno abjuzaju i kažnjavaju loše, ukoliko jedan dželat neko vreme ne valja, zajednica izglasa da se zameni, po tom formatu idući dželat bude osoba koja pazi koje postupke čini i stoga radi samo za narod koji ga je izabrao. DAO su igrači najlojalniji serveru u šta spadaju igrači sa SMP servera, igrači sa najviše htokena, igrači sa najviše playtime-a, OG igrači, igrači koji su tu godinama i bivši pokretači koji su smislili server. DAO je napravljen kao i u DEFI sistemima iz razloga što bi inače developeri i dželati inače imali pritisak od ljudi koji ne žele dobro zajednici i koji bi plaćali i terali nekoga da glasa za neku izmenu ili banovanje nekoga, zbog ovoga ni cancel kultura ovde NE postoji.
 
