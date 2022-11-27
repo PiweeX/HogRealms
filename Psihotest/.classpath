@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16"/>
+	<classpathentry kind="lib" path="C:/Users/nickm/Documents/BuildTools 01.04.2022/BuildTools/Spigot/Spigot-API/target/spigot-api-1.18.2-R0.1-SNAPSHOT-shaded.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nickm/OneDrive/Desktop/SpigotServer1.18.2/plugins/ProtocolLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nickm/Documents/SpigotLibrary1.18/1.18.2/bundler/libraries/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nickm/Documents/ServerProjectSerbian/1.18.2/plugins/PlaceholderAPI-2.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nickm/Documents/ServerProjectSerbian/1.18.2/plugins/DiscordSRV-Build-1.25.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nickm/Documents/ServerProjectSerbian/1.18.2/bundler/libraries/authlib-3.3.39.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

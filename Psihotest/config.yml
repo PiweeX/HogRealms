@@ -1,0 +1,48 @@
+# Psihotest configuration file
+#
+# Thanks for purchasing PSIHOTEST and trusting Hogo Studios since 2017. 
+#
+# Our motive is simplicity and efficiency. We hope the plugin will help your community!
+#
+# OFFICIAL LINKS:
+# - https://hogostudios.com/
+# - https://discord.gg/yq9gC87b58%60
+
+JoinMessage:
+  OnServer: true # enable join message on server
+  OnDiscord: true # enable join message on discord
+  Text: "%player% &ejoined the server!"
+LeaveMessage:
+  OnServer: true # enable leave message on server
+  OnDiscord: true # enable leave message on discord
+  Text: "%player% &eleft the server!"
+
+# Seconds-Range between random event (fakeplayer join/leave server)
+RandomEvent:
+  JoinChance: 60 # out of 100, LeaveChance = 100 - JoinChance
+  Min: 10
+  Max: 30
+
+FakeMaxPlayers:
+  Enable: true
+  MaxPlayers: 50
+  
+FakeServerList:
+  Enable: true
+  FakePlayersInList: true
+  
+#Command format: /command <fake_player_name>
+#e.g /tpa FakePlayer1
+KickCommands:
+- "tpa"
+- "bal"
+- "playtime"
+
+# DO NOT USE COLOR CODES ON SECOND HALF
+# Format: - "prefix,name" 
+# Do not forget to seperate prefix and name with a comma ','
+FakePlayers:
+- "&e[&7Tester1&e]&3,FakePlayer1"
+- "&e[&7Tester2&e]&3,FakePlayer2"
+- "&e[&7Tester3&e]&3,FakePlayer3"
+- "NoPrefixPlayer"
