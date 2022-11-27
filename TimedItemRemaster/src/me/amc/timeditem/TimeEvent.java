@@ -22,7 +22,7 @@ public class TimeEvent implements Listener {
 				
 			if(MainCore.instance.hasItemExpired(item)) {
 				inv.remove(item);
-				System.out.println("removed!");
+				//System.out.println("removed!");
 			}
 			
 		}
