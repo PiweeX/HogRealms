@@ -30,6 +30,8 @@ public class MainCore extends JavaPlugin {
 		
 		getCommand("timeditem").setExecutor(new TimeCommand());
 		
+		new TimeEvent();
+		
 		BukkitRunnable runnable = new BukkitRunnable() {
 
 			@Override
@@ -42,6 +44,14 @@ public class MainCore extends JavaPlugin {
 							items++;
 							player.getInventory().remove(item);
 							player.sendMessage(configHelper.getExpirationMessage());
+						}
+					}
+					if(player.getOpenInventory() != null) {
+						for(ItemStack item : player.getOpenInventory().getTopInventory()) {
+							if(item != null && hasItemExpired(item)) {
+								items++;
+								player.getOpenInventory().getTopInventory().remove(item);
+							}
 						}
 					}
 					player.updateInventory();
@@ -57,7 +67,8 @@ public class MainCore extends JavaPlugin {
 		
 	}
 	
-	private boolean hasItemExpired(ItemStack item) {
+	// Check if item has expired
+	public boolean hasItemExpired(ItemStack item) {
 		if(item.hasItemMeta())
 			if(item.getItemMeta().getPersistentDataContainer().has(TimeCommand.DATE_KEY, PersistentDataType.STRING))
 			{
