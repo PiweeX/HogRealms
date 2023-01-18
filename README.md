@@ -6,10 +6,6 @@ Hog je Realms stvoren davne 2017. godine na Miner Realms-u od grupe šestaka Hog
 
 Hogov Realms pored slobodne igre kao prvi WEB3 game server igračima omogućuje da kontrolišu ceo server kroz sistem IGRAČ > DAO > DEVELOPER i IGRAČ > ZAKON > DŽELAT te je kao i u najvećim DEFI sistemima celokupna potrošačka moć preusmerena u ruke korisnika i običnog igrača.
 
-╭━━━━━━━━━━╮
-• ＰＲＩＣＡ: o Hogovima
-• ＰＲＩＣＡ: o Serveru
-╰━━━━━━━━━━╯
 
 Radi se o geopolitičkom serveru na pravoj mapi sveta gde sami igrači kreiraju sav mogući scenario, igra se po pravilima što bliže stvarnom životu gde su prepušteni sami sebi i odlučuju kako ćete igrati.
 
