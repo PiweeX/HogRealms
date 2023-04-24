@@ -18,3 +18,7 @@ Igrači kontrolišu ceo server, na Decentraland serveru kroz DAO sistem HogRealm
 IGRAČ > DAO > DEVELOPER / IGRAČ > DAO > DŽELAT
 
 Sve što sagradite ostaje tu zauvek, radi se o projektu koji je produktovan mnoštvom drugih pa sama mapa kao i sve kreacije njegovih igrača se redovno backup-aju na više diskova
+
+
+
+GitHub stranicu koristimo kao transparentni workspace/changelog opciju za sve naše softvere i hardvere koje Hogova kompanija razvija
